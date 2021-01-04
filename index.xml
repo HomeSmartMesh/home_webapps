@@ -1,0 +1,100 @@
+<?xml version="1.0" encoding="utf-8" standalone="yes"?>
+<rss version="2.0" xmlns:atom="http://www.w3.org/2005/Atom">
+  <channel>
+    <title>Home</title>
+    <link>http://example.org/</link>
+    <description>Recent content on Home</description>
+    <generator>Hugo -- gohugo.io</generator>
+    <language>en-us</language><atom:link href="http://example.org/index.xml" rel="self" type="application/rss+xml" />
+    <item>
+      <title></title>
+      <link>http://example.org/docs/zigbee/lifo/</link>
+      <pubDate>Mon, 01 Jan 0001 00:00:00 +0000</pubDate>
+      
+      <guid>http://example.org/docs/zigbee/lifo/</guid>
+      <description>Lifo zigbee2mqtt#</description>
+    </item>
+    
+    <item>
+      <title>Heating</title>
+      <link>http://example.org/docs/heating/</link>
+      <pubDate>Mon, 01 Jan 0001 00:00:00 +0000</pubDate>
+      
+      <guid>http://example.org/docs/heating/</guid>
+      <description>Heating#</description>
+    </item>
+    
+    <item>
+      <title></title>
+      <link>http://example.org/docs/zigbee/mano/</link>
+      <pubDate>Mon, 01 Jan 0001 00:00:00 +0000</pubDate>
+      
+      <guid>http://example.org/docs/zigbee/mano/</guid>
+      <description>Lifo zigbee2mqtt#</description>
+    </item>
+    
+    <item>
+      <title>Home Assistant</title>
+      <link>http://example.org/docs/homeassistant/</link>
+      <pubDate>Mon, 01 Jan 0001 00:00:00 +0000</pubDate>
+      
+      <guid>http://example.org/docs/homeassistant/</guid>
+      <description>Heating#</description>
+    </item>
+    
+    <item>
+      <title></title>
+      <link>http://example.org/docs/zigbee/graph/</link>
+      <pubDate>Mon, 01 Jan 0001 00:00:00 +0000</pubDate>
+      
+      <guid>http://example.org/docs/zigbee/graph/</guid>
+      <description>zigbee2mqtt graph#</description>
+    </item>
+    
+    <item>
+      <title></title>
+      <link>http://example.org/docs/shellies/bathroom/</link>
+      <pubDate>Mon, 01 Jan 0001 00:00:00 +0000</pubDate>
+      
+      <guid>http://example.org/docs/shellies/bathroom/</guid>
+      <description>shelly bathroom (light/fan)#</description>
+    </item>
+    
+    <item>
+      <title></title>
+      <link>http://example.org/docs/shellies/pc/</link>
+      <pubDate>Mon, 01 Jan 0001 00:00:00 +0000</pubDate>
+      
+      <guid>http://example.org/docs/shellies/pc/</guid>
+      <description>shelly dell pc#</description>
+    </item>
+    
+    <item>
+      <title></title>
+      <link>http://example.org/docs/shellies/sonos-front/</link>
+      <pubDate>Mon, 01 Jan 0001 00:00:00 +0000</pubDate>
+      
+      <guid>http://example.org/docs/shellies/sonos-front/</guid>
+      <description>shelly sonos#</description>
+    </item>
+    
+    <item>
+      <title></title>
+      <link>http://example.org/docs/shellies/sonos-rear/</link>
+      <pubDate>Mon, 01 Jan 0001 00:00:00 +0000</pubDate>
+      
+      <guid>http://example.org/docs/shellies/sonos-rear/</guid>
+      <description>shelly sonos sat#</description>
+    </item>
+    
+    <item>
+      <title></title>
+      <link>http://example.org/docs/shellies/tv/</link>
+      <pubDate>Mon, 01 Jan 0001 00:00:00 +0000</pubDate>
+      
+      <guid>http://example.org/docs/shellies/tv/</guid>
+      <description>shelly tv#</description>
+    </item>
+    
+  </channel>
+</rss>

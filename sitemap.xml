@@ -1,0 +1,69 @@
+<?xml version="1.0" encoding="utf-8" standalone="yes"?>
+<urlset xmlns="http://www.sitemaps.org/schemas/sitemap/0.9"
+  xmlns:xhtml="http://www.w3.org/1999/xhtml">
+  
+  <url>
+    <loc>http://example.org/docs/zigbee/lifo/</loc>
+  </url>
+  
+  <url>
+    <loc>http://example.org/docs/heating/</loc>
+  </url>
+  
+  <url>
+    <loc>http://example.org/docs/zigbee/mano/</loc>
+  </url>
+  
+  <url>
+    <loc>http://example.org/docs/homeassistant/</loc>
+  </url>
+  
+  <url>
+    <loc>http://example.org/docs/shellies/</loc>
+  </url>
+  
+  <url>
+    <loc>http://example.org/docs/zigbee/graph/</loc>
+  </url>
+  
+  <url>
+    <loc>http://example.org/docs/zigbee/</loc>
+  </url>
+  
+  <url>
+    <loc>http://example.org/docs/shellies/bathroom/</loc>
+  </url>
+  
+  <url>
+    <loc>http://example.org/docs/shellies/pc/</loc>
+  </url>
+  
+  <url>
+    <loc>http://example.org/docs/shellies/sonos-front/</loc>
+  </url>
+  
+  <url>
+    <loc>http://example.org/docs/shellies/sonos-rear/</loc>
+  </url>
+  
+  <url>
+    <loc>http://example.org/docs/shellies/tv/</loc>
+  </url>
+  
+  <url>
+    <loc>http://example.org/categories/</loc>
+  </url>
+  
+  <url>
+    <loc>http://example.org/docs/</loc>
+  </url>
+  
+  <url>
+    <loc>http://example.org/</loc>
+  </url>
+  
+  <url>
+    <loc>http://example.org/tags/</loc>
+  </url>
+  
+</urlset>

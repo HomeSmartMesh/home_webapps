@@ -1,0 +1,55 @@
+<?xml version="1.0" encoding="utf-8" standalone="yes"?>
+<rss version="2.0" xmlns:atom="http://www.w3.org/2005/Atom">
+  <channel>
+    <title>Shellies on Home</title>
+    <link>http://example.org/docs/shellies/</link>
+    <description>Recent content in Shellies on Home</description>
+    <generator>Hugo -- gohugo.io</generator>
+    <language>en-us</language><atom:link href="http://example.org/docs/shellies/index.xml" rel="self" type="application/rss+xml" />
+    <item>
+      <title></title>
+      <link>http://example.org/docs/shellies/bathroom/</link>
+      <pubDate>Mon, 01 Jan 0001 00:00:00 +0000</pubDate>
+      
+      <guid>http://example.org/docs/shellies/bathroom/</guid>
+      <description>shelly bathroom (light/fan)#</description>
+    </item>
+    
+    <item>
+      <title></title>
+      <link>http://example.org/docs/shellies/pc/</link>
+      <pubDate>Mon, 01 Jan 0001 00:00:00 +0000</pubDate>
+      
+      <guid>http://example.org/docs/shellies/pc/</guid>
+      <description>shelly dell pc#</description>
+    </item>
+    
+    <item>
+      <title></title>
+      <link>http://example.org/docs/shellies/sonos-front/</link>
+      <pubDate>Mon, 01 Jan 0001 00:00:00 +0000</pubDate>
+      
+      <guid>http://example.org/docs/shellies/sonos-front/</guid>
+      <description>shelly sonos#</description>
+    </item>
+    
+    <item>
+      <title></title>
+      <link>http://example.org/docs/shellies/sonos-rear/</link>
+      <pubDate>Mon, 01 Jan 0001 00:00:00 +0000</pubDate>
+      
+      <guid>http://example.org/docs/shellies/sonos-rear/</guid>
+      <description>shelly sonos sat#</description>
+    </item>
+    
+    <item>
+      <title></title>
+      <link>http://example.org/docs/shellies/tv/</link>
+      <pubDate>Mon, 01 Jan 0001 00:00:00 +0000</pubDate>
+      
+      <guid>http://example.org/docs/shellies/tv/</guid>
+      <description>shelly tv#</description>
+    </item>
+    
+  </channel>
+</rss>
