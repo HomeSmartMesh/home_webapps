@@ -8,19 +8,28 @@
     <language>en-us</language><atom:link href="http://10.0.0.31/home/docs/index.xml" rel="self" type="application/rss+xml" />
     <item>
       <title>Heating</title>
-      <link>http://10.0.0.31/home/docs/heating/</link>
+      <link>http://10.0.0.31/home/docs/1-heating/</link>
       <pubDate>Mon, 01 Jan 0001 00:00:00 +0000</pubDate>
       
-      <guid>http://10.0.0.31/home/docs/heating/</guid>
+      <guid>http://10.0.0.31/home/docs/1-heating/</guid>
       <description>Heating#</description>
     </item>
     
     <item>
       <title>Home Assistant</title>
-      <link>http://10.0.0.31/home/docs/homeassistant/</link>
+      <link>http://10.0.0.31/home/docs/2-homeassistant/</link>
       <pubDate>Mon, 01 Jan 0001 00:00:00 +0000</pubDate>
       
-      <guid>http://10.0.0.31/home/docs/homeassistant/</guid>
+      <guid>http://10.0.0.31/home/docs/2-homeassistant/</guid>
+      <description>Home Assistant Webapp#</description>
+    </item>
+    
+    <item>
+      <title>Home 3D</title>
+      <link>http://10.0.0.31/home/docs/6-home3d/</link>
+      <pubDate>Mon, 01 Jan 0001 00:00:00 +0000</pubDate>
+      
+      <guid>http://10.0.0.31/home/docs/6-home3d/</guid>
       <description>Heating#</description>
     </item>
     
