@@ -3,67 +3,67 @@
   xmlns:xhtml="http://www.w3.org/1999/xhtml">
   
   <url>
-    <loc>http://example.org/docs/zigbee/lifo/</loc>
+    <loc>http://10.0.0.31/home/docs/zigbee/lifo/</loc>
   </url>
   
   <url>
-    <loc>http://example.org/docs/heating/</loc>
+    <loc>http://10.0.0.31/home/docs/heating/</loc>
   </url>
   
   <url>
-    <loc>http://example.org/docs/zigbee/mano/</loc>
+    <loc>http://10.0.0.31/home/docs/zigbee/mano/</loc>
   </url>
   
   <url>
-    <loc>http://example.org/docs/homeassistant/</loc>
+    <loc>http://10.0.0.31/home/docs/homeassistant/</loc>
   </url>
   
   <url>
-    <loc>http://example.org/docs/shellies/</loc>
+    <loc>http://10.0.0.31/home/docs/shellies/</loc>
   </url>
   
   <url>
-    <loc>http://example.org/docs/zigbee/graph/</loc>
+    <loc>http://10.0.0.31/home/docs/zigbee/graph/</loc>
   </url>
   
   <url>
-    <loc>http://example.org/docs/zigbee/</loc>
+    <loc>http://10.0.0.31/home/docs/zigbee/</loc>
   </url>
   
   <url>
-    <loc>http://example.org/docs/shellies/bathroom/</loc>
+    <loc>http://10.0.0.31/home/docs/shellies/bathroom/</loc>
   </url>
   
   <url>
-    <loc>http://example.org/docs/shellies/pc/</loc>
+    <loc>http://10.0.0.31/home/docs/shellies/pc/</loc>
   </url>
   
   <url>
-    <loc>http://example.org/docs/shellies/sonos-front/</loc>
+    <loc>http://10.0.0.31/home/docs/shellies/sonos-front/</loc>
   </url>
   
   <url>
-    <loc>http://example.org/docs/shellies/sonos-rear/</loc>
+    <loc>http://10.0.0.31/home/docs/shellies/sonos-rear/</loc>
   </url>
   
   <url>
-    <loc>http://example.org/docs/shellies/tv/</loc>
+    <loc>http://10.0.0.31/home/docs/shellies/tv/</loc>
   </url>
   
   <url>
-    <loc>http://example.org/categories/</loc>
+    <loc>http://10.0.0.31/home/categories/</loc>
   </url>
   
   <url>
-    <loc>http://example.org/docs/</loc>
+    <loc>http://10.0.0.31/home/docs/</loc>
   </url>
   
   <url>
-    <loc>http://example.org/</loc>
+    <loc>http://10.0.0.31/home/</loc>
   </url>
   
   <url>
-    <loc>http://example.org/tags/</loc>
+    <loc>http://10.0.0.31/home/tags/</loc>
   </url>
   
 </urlset>
