@@ -25,11 +25,20 @@
     </item>
     
     <item>
-      <title>Home 3D</title>
-      <link>http://10.0.0.31/home/docs/6-home3d/</link>
+      <title>Open HAB</title>
+      <link>http://10.0.0.31/home/docs/3-openhab/</link>
       <pubDate>Mon, 01 Jan 0001 00:00:00 +0000</pubDate>
       
-      <guid>http://10.0.0.31/home/docs/6-home3d/</guid>
+      <guid>http://10.0.0.31/home/docs/3-openhab/</guid>
+      <description>Open Home.Automation.Bus#</description>
+    </item>
+    
+    <item>
+      <title>Home 3D</title>
+      <link>http://10.0.0.31/home/docs/30-home3d/</link>
+      <pubDate>Mon, 01 Jan 0001 00:00:00 +0000</pubDate>
+      
+      <guid>http://10.0.0.31/home/docs/30-home3d/</guid>
       <description>Heating#</description>
     </item>
     

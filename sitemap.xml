@@ -3,11 +3,11 @@
   xmlns:xhtml="http://www.w3.org/1999/xhtml">
   
   <url>
-    <loc>http://10.0.0.31/home/docs/3-shellies/sonos-front/</loc>
+    <loc>http://10.0.0.31/home/docs/10-shellies/sonos-front/</loc>
   </url>
   
   <url>
-    <loc>http://10.0.0.31/home/docs/5-zigbee/lifo/</loc>
+    <loc>http://10.0.0.31/home/docs/20-zigbee/lifo/</loc>
   </url>
   
   <url>
@@ -15,19 +15,19 @@
   </url>
   
   <url>
-    <loc>http://10.0.0.31/home/docs/4-grafana/1-indoor/</loc>
+    <loc>http://10.0.0.31/home/docs/11-grafana/1-indoor/</loc>
   </url>
   
   <url>
-    <loc>http://10.0.0.31/home/docs/3-shellies/sonos-rear/</loc>
+    <loc>http://10.0.0.31/home/docs/10-shellies/sonos-rear/</loc>
   </url>
   
   <url>
-    <loc>http://10.0.0.31/home/docs/5-zigbee/mano/</loc>
+    <loc>http://10.0.0.31/home/docs/20-zigbee/mano/</loc>
   </url>
   
   <url>
-    <loc>http://10.0.0.31/home/docs/4-grafana/2-energy/</loc>
+    <loc>http://10.0.0.31/home/docs/11-grafana/2-energy/</loc>
   </url>
   
   <url>
@@ -35,43 +35,47 @@
   </url>
   
   <url>
-    <loc>http://10.0.0.31/home/docs/3-shellies/tv/</loc>
+    <loc>http://10.0.0.31/home/docs/10-shellies/tv/</loc>
   </url>
   
   <url>
-    <loc>http://10.0.0.31/home/docs/5-zigbee/graph/</loc>
+    <loc>http://10.0.0.31/home/docs/20-zigbee/graph/</loc>
   </url>
   
   <url>
-    <loc>http://10.0.0.31/home/docs/4-grafana/3-environment/</loc>
+    <loc>http://10.0.0.31/home/docs/11-grafana/3-environment/</loc>
   </url>
   
   <url>
-    <loc>http://10.0.0.31/home/docs/3-shellies/</loc>
+    <loc>http://10.0.0.31/home/docs/3-openhab/</loc>
   </url>
   
   <url>
-    <loc>http://10.0.0.31/home/docs/3-shellies/pc/</loc>
+    <loc>http://10.0.0.31/home/docs/10-shellies/pc/</loc>
   </url>
   
   <url>
-    <loc>http://10.0.0.31/home/docs/4-grafana/</loc>
+    <loc>http://10.0.0.31/home/docs/11-grafana/4-servers/</loc>
   </url>
   
   <url>
-    <loc>http://10.0.0.31/home/docs/4-grafana/4-servers/</loc>
+    <loc>http://10.0.0.31/home/docs/10-shellies/bathroom/</loc>
   </url>
   
   <url>
-    <loc>http://10.0.0.31/home/docs/3-shellies/bathroom/</loc>
+    <loc>http://10.0.0.31/home/docs/10-shellies/</loc>
   </url>
   
   <url>
-    <loc>http://10.0.0.31/home/docs/5-zigbee/</loc>
+    <loc>http://10.0.0.31/home/docs/11-grafana/</loc>
   </url>
   
   <url>
-    <loc>http://10.0.0.31/home/docs/6-home3d/</loc>
+    <loc>http://10.0.0.31/home/docs/20-zigbee/</loc>
+  </url>
+  
+  <url>
+    <loc>http://10.0.0.31/home/docs/30-home3d/</loc>
   </url>
   
   <url>
