@@ -8,146 +8,146 @@
     <language>en-us</language><atom:link href="http://10.0.0.31/home/index.xml" rel="self" type="application/rss+xml" />
     <item>
       <title></title>
-      <link>http://10.0.0.31/home/docs/10-shellies/sonos-front/</link>
+      <link>http://10.0.0.31/home/docs/shellies/sonos-front/</link>
       <pubDate>Mon, 01 Jan 0001 00:00:00 +0000</pubDate>
       
-      <guid>http://10.0.0.31/home/docs/10-shellies/sonos-front/</guid>
-      <description>shelly sonos#</description>
+      <guid>http://10.0.0.31/home/docs/shellies/sonos-front/</guid>
+      <description>shelly sonos#Full screenOpen in a new pagevar button = document.getElementById(&#34;btn-0c80ca3c47ff5632&#34;);button.onclick = ()={var elem = document.getElementById(&#34;ifm-0c80ca3c47ff5632&#34;);if (elem.requestFullscreen) {elem.requestFullscreen();} else if (elem.webkitRequestFullscreen) { elem.webkitRequestFullscreen();} else if (elem.msRequestFullscreen) { elem.msRequestFullscreen();}};</description>
     </item>
     
     <item>
       <title></title>
-      <link>http://10.0.0.31/home/docs/20-zigbee/lifo/</link>
+      <link>http://10.0.0.31/home/docs/zigbee/lifo/</link>
       <pubDate>Mon, 01 Jan 0001 00:00:00 +0000</pubDate>
       
-      <guid>http://10.0.0.31/home/docs/20-zigbee/lifo/</guid>
-      <description>Lifo zigbee2mqtt#</description>
+      <guid>http://10.0.0.31/home/docs/zigbee/lifo/</guid>
+      <description>Lifo zigbee2mqtt#Full screenOpen in a new pagevar button = document.getElementById(&#34;btn-c0d1a2892889bdbe&#34;);button.onclick = ()={var elem = document.getElementById(&#34;ifm-c0d1a2892889bdbe&#34;);if (elem.requestFullscreen) {elem.requestFullscreen();} else if (elem.webkitRequestFullscreen) { elem.webkitRequestFullscreen();} else if (elem.msRequestFullscreen) { elem.msRequestFullscreen();}};</description>
     </item>
     
     <item>
       <title>Heating</title>
-      <link>http://10.0.0.31/home/docs/1-heating/</link>
+      <link>http://10.0.0.31/home/docs/heating/</link>
       <pubDate>Mon, 01 Jan 0001 00:00:00 +0000</pubDate>
       
-      <guid>http://10.0.0.31/home/docs/1-heating/</guid>
-      <description>Heating#</description>
+      <guid>http://10.0.0.31/home/docs/heating/</guid>
+      <description>Heating#Full screenOpen in a new pagevar button = document.getElementById(&#34;btn-ca16b27d5a1fb2e9&#34;);button.onclick = ()={var elem = document.getElementById(&#34;ifm-ca16b27d5a1fb2e9&#34;);if (elem.requestFullscreen) {elem.requestFullscreen();} else if (elem.webkitRequestFullscreen) { elem.webkitRequestFullscreen();} else if (elem.msRequestFullscreen) { elem.msRequestFullscreen();}};</description>
     </item>
     
     <item>
       <title>Indoors</title>
-      <link>http://10.0.0.31/home/docs/11-grafana/1-indoor/</link>
+      <link>http://10.0.0.31/home/docs/grafana/indoor/</link>
       <pubDate>Mon, 01 Jan 0001 00:00:00 +0000</pubDate>
       
-      <guid>http://10.0.0.31/home/docs/11-grafana/1-indoor/</guid>
-      <description>Indoor Temperature and Humidity#</description>
+      <guid>http://10.0.0.31/home/docs/grafana/indoor/</guid>
+      <description>Indoor Temperature and Humidity#Full screenOpen in a new pagevar button = document.getElementById(&#34;btn-88fb80d56ab7d3f0&#34;);button.onclick = ()={var elem = document.getElementById(&#34;ifm-88fb80d56ab7d3f0&#34;);if (elem.requestFullscreen) {elem.requestFullscreen();} else if (elem.webkitRequestFullscreen) { elem.webkitRequestFullscreen();} else if (elem.msRequestFullscreen) { elem.msRequestFullscreen();}};</description>
     </item>
     
     <item>
       <title></title>
-      <link>http://10.0.0.31/home/docs/10-shellies/sonos-rear/</link>
+      <link>http://10.0.0.31/home/docs/shellies/sonos-rear/</link>
       <pubDate>Mon, 01 Jan 0001 00:00:00 +0000</pubDate>
       
-      <guid>http://10.0.0.31/home/docs/10-shellies/sonos-rear/</guid>
-      <description>shelly sonos sat#</description>
+      <guid>http://10.0.0.31/home/docs/shellies/sonos-rear/</guid>
+      <description>shelly sonos sat#Full screenOpen in a new pagevar button = document.getElementById(&#34;btn-321ed343491a0712&#34;);button.onclick = ()={var elem = document.getElementById(&#34;ifm-321ed343491a0712&#34;);if (elem.requestFullscreen) {elem.requestFullscreen();} else if (elem.webkitRequestFullscreen) { elem.webkitRequestFullscreen();} else if (elem.msRequestFullscreen) { elem.msRequestFullscreen();}};</description>
     </item>
     
     <item>
       <title></title>
-      <link>http://10.0.0.31/home/docs/20-zigbee/mano/</link>
+      <link>http://10.0.0.31/home/docs/zigbee/mano/</link>
       <pubDate>Mon, 01 Jan 0001 00:00:00 +0000</pubDate>
       
-      <guid>http://10.0.0.31/home/docs/20-zigbee/mano/</guid>
-      <description>Lifo zigbee2mqtt#</description>
+      <guid>http://10.0.0.31/home/docs/zigbee/mano/</guid>
+      <description>Lifo zigbee2mqtt#Full screenOpen in a new pagevar button = document.getElementById(&#34;btn-3f81123d6d2d21ee&#34;);button.onclick = ()={var elem = document.getElementById(&#34;ifm-3f81123d6d2d21ee&#34;);if (elem.requestFullscreen) {elem.requestFullscreen();} else if (elem.webkitRequestFullscreen) { elem.webkitRequestFullscreen();} else if (elem.msRequestFullscreen) { elem.msRequestFullscreen();}};</description>
     </item>
     
     <item>
       <title>Energy</title>
-      <link>http://10.0.0.31/home/docs/11-grafana/2-energy/</link>
+      <link>http://10.0.0.31/home/docs/grafana/energy/</link>
       <pubDate>Mon, 01 Jan 0001 00:00:00 +0000</pubDate>
       
-      <guid>http://10.0.0.31/home/docs/11-grafana/2-energy/</guid>
-      <description>Energy consumption the last 60 days#</description>
+      <guid>http://10.0.0.31/home/docs/grafana/energy/</guid>
+      <description>Energy consumption the last 60 days#Full screenOpen in a new pagevar button = document.getElementById(&#34;btn-4348877a38fd259b&#34;);button.onclick = ()={var elem = document.getElementById(&#34;ifm-4348877a38fd259b&#34;);if (elem.requestFullscreen) {elem.requestFullscreen();} else if (elem.webkitRequestFullscreen) { elem.webkitRequestFullscreen();} else if (elem.msRequestFullscreen) { elem.msRequestFullscreen();}};</description>
     </item>
     
     <item>
       <title>Home Assistant</title>
-      <link>http://10.0.0.31/home/docs/2-homeassistant/</link>
+      <link>http://10.0.0.31/home/docs/homeassistant/</link>
       <pubDate>Mon, 01 Jan 0001 00:00:00 +0000</pubDate>
       
-      <guid>http://10.0.0.31/home/docs/2-homeassistant/</guid>
-      <description>Home Assistant Webapp#</description>
+      <guid>http://10.0.0.31/home/docs/homeassistant/</guid>
+      <description>Home Assistant Webapp#Full screenOpen in a new pagevar button = document.getElementById(&#34;btn-34a3bac5571fe605&#34;);button.onclick = ()={var elem = document.getElementById(&#34;ifm-34a3bac5571fe605&#34;);if (elem.requestFullscreen) {elem.requestFullscreen();} else if (elem.webkitRequestFullscreen) { elem.webkitRequestFullscreen();} else if (elem.msRequestFullscreen) { elem.msRequestFullscreen();}};</description>
     </item>
     
     <item>
       <title></title>
-      <link>http://10.0.0.31/home/docs/10-shellies/tv/</link>
+      <link>http://10.0.0.31/home/docs/shellies/tv/</link>
       <pubDate>Mon, 01 Jan 0001 00:00:00 +0000</pubDate>
       
-      <guid>http://10.0.0.31/home/docs/10-shellies/tv/</guid>
-      <description>shelly tv#</description>
+      <guid>http://10.0.0.31/home/docs/shellies/tv/</guid>
+      <description>shelly tv#Full screenOpen in a new pagevar button = document.getElementById(&#34;btn-a5b127c60184df77&#34;);button.onclick = ()={var elem = document.getElementById(&#34;ifm-a5b127c60184df77&#34;);if (elem.requestFullscreen) {elem.requestFullscreen();} else if (elem.webkitRequestFullscreen) { elem.webkitRequestFullscreen();} else if (elem.msRequestFullscreen) { elem.msRequestFullscreen();}};</description>
     </item>
     
     <item>
       <title></title>
-      <link>http://10.0.0.31/home/docs/20-zigbee/graph/</link>
+      <link>http://10.0.0.31/home/docs/zigbee/graph/</link>
       <pubDate>Mon, 01 Jan 0001 00:00:00 +0000</pubDate>
       
-      <guid>http://10.0.0.31/home/docs/20-zigbee/graph/</guid>
-      <description>zigbee2mqtt graph#</description>
+      <guid>http://10.0.0.31/home/docs/zigbee/graph/</guid>
+      <description>zigbee2mqtt graph#Full screenOpen in a new pagevar button = document.getElementById(&#34;btn-3898b5650b485d9d&#34;);button.onclick = ()={var elem = document.getElementById(&#34;ifm-3898b5650b485d9d&#34;);if (elem.requestFullscreen) {elem.requestFullscreen();} else if (elem.webkitRequestFullscreen) { elem.webkitRequestFullscreen();} else if (elem.msRequestFullscreen) { elem.msRequestFullscreen();}};</description>
     </item>
     
     <item>
       <title>Environment</title>
-      <link>http://10.0.0.31/home/docs/11-grafana/3-environment/</link>
+      <link>http://10.0.0.31/home/docs/grafana/environment/</link>
       <pubDate>Mon, 01 Jan 0001 00:00:00 +0000</pubDate>
       
-      <guid>http://10.0.0.31/home/docs/11-grafana/3-environment/</guid>
-      <description>Energy consumption the last 60 days#</description>
+      <guid>http://10.0.0.31/home/docs/grafana/environment/</guid>
+      <description>Energy consumption the last 60 days#Full screenOpen in a new pagevar button = document.getElementById(&#34;btn-6ec89b15854a3f6c&#34;);button.onclick = ()={var elem = document.getElementById(&#34;ifm-6ec89b15854a3f6c&#34;);if (elem.requestFullscreen) {elem.requestFullscreen();} else if (elem.webkitRequestFullscreen) { elem.webkitRequestFullscreen();} else if (elem.msRequestFullscreen) { elem.msRequestFullscreen();}};</description>
     </item>
     
     <item>
       <title>Open HAB</title>
-      <link>http://10.0.0.31/home/docs/3-openhab/</link>
+      <link>http://10.0.0.31/home/docs/openhab/</link>
       <pubDate>Mon, 01 Jan 0001 00:00:00 +0000</pubDate>
       
-      <guid>http://10.0.0.31/home/docs/3-openhab/</guid>
-      <description>Open Home.Automation.Bus#</description>
+      <guid>http://10.0.0.31/home/docs/openhab/</guid>
+      <description>Open Home.Automation.Bus#Full screenOpen in a new pagevar button = document.getElementById(&#34;btn-044ca953a71876da&#34;);button.onclick = ()={var elem = document.getElementById(&#34;ifm-044ca953a71876da&#34;);if (elem.requestFullscreen) {elem.requestFullscreen();} else if (elem.webkitRequestFullscreen) { elem.webkitRequestFullscreen();} else if (elem.msRequestFullscreen) { elem.msRequestFullscreen();}};</description>
     </item>
     
     <item>
       <title></title>
-      <link>http://10.0.0.31/home/docs/10-shellies/pc/</link>
+      <link>http://10.0.0.31/home/docs/shellies/pc/</link>
       <pubDate>Mon, 01 Jan 0001 00:00:00 +0000</pubDate>
       
-      <guid>http://10.0.0.31/home/docs/10-shellies/pc/</guid>
-      <description>shelly dell pc#</description>
+      <guid>http://10.0.0.31/home/docs/shellies/pc/</guid>
+      <description>shelly dell pc#Full screenOpen in a new pagevar button = document.getElementById(&#34;btn-fe30330f5ba30840&#34;);button.onclick = ()={var elem = document.getElementById(&#34;ifm-fe30330f5ba30840&#34;);if (elem.requestFullscreen) {elem.requestFullscreen();} else if (elem.webkitRequestFullscreen) { elem.webkitRequestFullscreen();} else if (elem.msRequestFullscreen) { elem.msRequestFullscreen();}};</description>
     </item>
     
     <item>
       <title>Servers</title>
-      <link>http://10.0.0.31/home/docs/11-grafana/4-servers/</link>
+      <link>http://10.0.0.31/home/docs/grafana/servers/</link>
       <pubDate>Mon, 01 Jan 0001 00:00:00 +0000</pubDate>
       
-      <guid>http://10.0.0.31/home/docs/11-grafana/4-servers/</guid>
-      <description>Energy consumption the last 60 days#</description>
+      <guid>http://10.0.0.31/home/docs/grafana/servers/</guid>
+      <description>Energy consumption the last 60 days#Full screenOpen in a new pagevar button = document.getElementById(&#34;btn-cfa8dab42588814e&#34;);button.onclick = ()={var elem = document.getElementById(&#34;ifm-cfa8dab42588814e&#34;);if (elem.requestFullscreen) {elem.requestFullscreen();} else if (elem.webkitRequestFullscreen) { elem.webkitRequestFullscreen();} else if (elem.msRequestFullscreen) { elem.msRequestFullscreen();}};</description>
     </item>
     
     <item>
       <title></title>
-      <link>http://10.0.0.31/home/docs/10-shellies/bathroom/</link>
+      <link>http://10.0.0.31/home/docs/shellies/bathroom/</link>
       <pubDate>Mon, 01 Jan 0001 00:00:00 +0000</pubDate>
       
-      <guid>http://10.0.0.31/home/docs/10-shellies/bathroom/</guid>
-      <description>shelly bathroom (light/fan)#</description>
+      <guid>http://10.0.0.31/home/docs/shellies/bathroom/</guid>
+      <description>shelly bathroom (light/fan)#Full screenOpen in a new pagevar button = document.getElementById(&#34;btn-0186444e7f0ccbcd&#34;);button.onclick = ()={var elem = document.getElementById(&#34;ifm-0186444e7f0ccbcd&#34;);if (elem.requestFullscreen) {elem.requestFullscreen();} else if (elem.webkitRequestFullscreen) { elem.webkitRequestFullscreen();} else if (elem.msRequestFullscreen) { elem.msRequestFullscreen();}};</description>
     </item>
     
     <item>
       <title>Home 3D</title>
-      <link>http://10.0.0.31/home/docs/30-home3d/</link>
+      <link>http://10.0.0.31/home/docs/home3d/</link>
       <pubDate>Mon, 01 Jan 0001 00:00:00 +0000</pubDate>
       
-      <guid>http://10.0.0.31/home/docs/30-home3d/</guid>
-      <description>Heating#</description>
+      <guid>http://10.0.0.31/home/docs/home3d/</guid>
+      <description>Heating#Full screenOpen in a new pagevar button = document.getElementById(&#34;btn-b08e9cf2c7b78c22&#34;);button.onclick = ()={var elem = document.getElementById(&#34;ifm-b08e9cf2c7b78c22&#34;);if (elem.requestFullscreen) {elem.requestFullscreen();} else if (elem.webkitRequestFullscreen) { elem.webkitRequestFullscreen();} else if (elem.msRequestFullscreen) { elem.msRequestFullscreen();}};</description>
     </item>
     
   </channel>

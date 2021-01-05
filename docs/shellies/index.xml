@@ -8,29 +8,11 @@
     <language>en-us</language><atom:link href="http://10.0.0.31/home/docs/shellies/index.xml" rel="self" type="application/rss+xml" />
     <item>
       <title></title>
-      <link>http://10.0.0.31/home/docs/shellies/bathroom/</link>
-      <pubDate>Mon, 01 Jan 0001 00:00:00 +0000</pubDate>
-      
-      <guid>http://10.0.0.31/home/docs/shellies/bathroom/</guid>
-      <description>shelly bathroom (light/fan)#</description>
-    </item>
-    
-    <item>
-      <title></title>
-      <link>http://10.0.0.31/home/docs/shellies/pc/</link>
-      <pubDate>Mon, 01 Jan 0001 00:00:00 +0000</pubDate>
-      
-      <guid>http://10.0.0.31/home/docs/shellies/pc/</guid>
-      <description>shelly dell pc#</description>
-    </item>
-    
-    <item>
-      <title></title>
       <link>http://10.0.0.31/home/docs/shellies/sonos-front/</link>
       <pubDate>Mon, 01 Jan 0001 00:00:00 +0000</pubDate>
       
       <guid>http://10.0.0.31/home/docs/shellies/sonos-front/</guid>
-      <description>shelly sonos#</description>
+      <description>shelly sonos#Full screenOpen in a new pagevar button = document.getElementById(&#34;btn-0c80ca3c47ff5632&#34;);button.onclick = ()={var elem = document.getElementById(&#34;ifm-0c80ca3c47ff5632&#34;);if (elem.requestFullscreen) {elem.requestFullscreen();} else if (elem.webkitRequestFullscreen) { elem.webkitRequestFullscreen();} else if (elem.msRequestFullscreen) { elem.msRequestFullscreen();}};</description>
     </item>
     
     <item>
@@ -39,7 +21,7 @@
       <pubDate>Mon, 01 Jan 0001 00:00:00 +0000</pubDate>
       
       <guid>http://10.0.0.31/home/docs/shellies/sonos-rear/</guid>
-      <description>shelly sonos sat#</description>
+      <description>shelly sonos sat#Full screenOpen in a new pagevar button = document.getElementById(&#34;btn-321ed343491a0712&#34;);button.onclick = ()={var elem = document.getElementById(&#34;ifm-321ed343491a0712&#34;);if (elem.requestFullscreen) {elem.requestFullscreen();} else if (elem.webkitRequestFullscreen) { elem.webkitRequestFullscreen();} else if (elem.msRequestFullscreen) { elem.msRequestFullscreen();}};</description>
     </item>
     
     <item>
@@ -48,7 +30,25 @@
       <pubDate>Mon, 01 Jan 0001 00:00:00 +0000</pubDate>
       
       <guid>http://10.0.0.31/home/docs/shellies/tv/</guid>
-      <description>shelly tv#</description>
+      <description>shelly tv#Full screenOpen in a new pagevar button = document.getElementById(&#34;btn-a5b127c60184df77&#34;);button.onclick = ()={var elem = document.getElementById(&#34;ifm-a5b127c60184df77&#34;);if (elem.requestFullscreen) {elem.requestFullscreen();} else if (elem.webkitRequestFullscreen) { elem.webkitRequestFullscreen();} else if (elem.msRequestFullscreen) { elem.msRequestFullscreen();}};</description>
+    </item>
+    
+    <item>
+      <title></title>
+      <link>http://10.0.0.31/home/docs/shellies/pc/</link>
+      <pubDate>Mon, 01 Jan 0001 00:00:00 +0000</pubDate>
+      
+      <guid>http://10.0.0.31/home/docs/shellies/pc/</guid>
+      <description>shelly dell pc#Full screenOpen in a new pagevar button = document.getElementById(&#34;btn-fe30330f5ba30840&#34;);button.onclick = ()={var elem = document.getElementById(&#34;ifm-fe30330f5ba30840&#34;);if (elem.requestFullscreen) {elem.requestFullscreen();} else if (elem.webkitRequestFullscreen) { elem.webkitRequestFullscreen();} else if (elem.msRequestFullscreen) { elem.msRequestFullscreen();}};</description>
+    </item>
+    
+    <item>
+      <title></title>
+      <link>http://10.0.0.31/home/docs/shellies/bathroom/</link>
+      <pubDate>Mon, 01 Jan 0001 00:00:00 +0000</pubDate>
+      
+      <guid>http://10.0.0.31/home/docs/shellies/bathroom/</guid>
+      <description>shelly bathroom (light/fan)#Full screenOpen in a new pagevar button = document.getElementById(&#34;btn-0186444e7f0ccbcd&#34;);button.onclick = ()={var elem = document.getElementById(&#34;ifm-0186444e7f0ccbcd&#34;);if (elem.requestFullscreen) {elem.requestFullscreen();} else if (elem.webkitRequestFullscreen) { elem.webkitRequestFullscreen();} else if (elem.msRequestFullscreen) { elem.msRequestFullscreen();}};</description>
     </item>
     
   </channel>

@@ -1,0 +1,46 @@
+<?xml version="1.0" encoding="utf-8" standalone="yes"?>
+<rss version="2.0" xmlns:atom="http://www.w3.org/2005/Atom">
+  <channel>
+    <title>Grafana on Home</title>
+    <link>http://10.0.0.31/home/docs/grafana/</link>
+    <description>Recent content in Grafana on Home</description>
+    <generator>Hugo -- gohugo.io</generator>
+    <language>en-us</language><atom:link href="http://10.0.0.31/home/docs/grafana/index.xml" rel="self" type="application/rss+xml" />
+    <item>
+      <title>Indoors</title>
+      <link>http://10.0.0.31/home/docs/grafana/indoor/</link>
+      <pubDate>Mon, 01 Jan 0001 00:00:00 +0000</pubDate>
+      
+      <guid>http://10.0.0.31/home/docs/grafana/indoor/</guid>
+      <description>Indoor Temperature and Humidity#Full screenOpen in a new pagevar button = document.getElementById(&#34;btn-88fb80d56ab7d3f0&#34;);button.onclick = ()={var elem = document.getElementById(&#34;ifm-88fb80d56ab7d3f0&#34;);if (elem.requestFullscreen) {elem.requestFullscreen();} else if (elem.webkitRequestFullscreen) { elem.webkitRequestFullscreen();} else if (elem.msRequestFullscreen) { elem.msRequestFullscreen();}};</description>
+    </item>
+    
+    <item>
+      <title>Energy</title>
+      <link>http://10.0.0.31/home/docs/grafana/energy/</link>
+      <pubDate>Mon, 01 Jan 0001 00:00:00 +0000</pubDate>
+      
+      <guid>http://10.0.0.31/home/docs/grafana/energy/</guid>
+      <description>Energy consumption the last 60 days#Full screenOpen in a new pagevar button = document.getElementById(&#34;btn-4348877a38fd259b&#34;);button.onclick = ()={var elem = document.getElementById(&#34;ifm-4348877a38fd259b&#34;);if (elem.requestFullscreen) {elem.requestFullscreen();} else if (elem.webkitRequestFullscreen) { elem.webkitRequestFullscreen();} else if (elem.msRequestFullscreen) { elem.msRequestFullscreen();}};</description>
+    </item>
+    
+    <item>
+      <title>Environment</title>
+      <link>http://10.0.0.31/home/docs/grafana/environment/</link>
+      <pubDate>Mon, 01 Jan 0001 00:00:00 +0000</pubDate>
+      
+      <guid>http://10.0.0.31/home/docs/grafana/environment/</guid>
+      <description>Energy consumption the last 60 days#Full screenOpen in a new pagevar button = document.getElementById(&#34;btn-6ec89b15854a3f6c&#34;);button.onclick = ()={var elem = document.getElementById(&#34;ifm-6ec89b15854a3f6c&#34;);if (elem.requestFullscreen) {elem.requestFullscreen();} else if (elem.webkitRequestFullscreen) { elem.webkitRequestFullscreen();} else if (elem.msRequestFullscreen) { elem.msRequestFullscreen();}};</description>
+    </item>
+    
+    <item>
+      <title>Servers</title>
+      <link>http://10.0.0.31/home/docs/grafana/servers/</link>
+      <pubDate>Mon, 01 Jan 0001 00:00:00 +0000</pubDate>
+      
+      <guid>http://10.0.0.31/home/docs/grafana/servers/</guid>
+      <description>Energy consumption the last 60 days#Full screenOpen in a new pagevar button = document.getElementById(&#34;btn-cfa8dab42588814e&#34;);button.onclick = ()={var elem = document.getElementById(&#34;ifm-cfa8dab42588814e&#34;);if (elem.requestFullscreen) {elem.requestFullscreen();} else if (elem.webkitRequestFullscreen) { elem.webkitRequestFullscreen();} else if (elem.msRequestFullscreen) { elem.msRequestFullscreen();}};</description>
+    </item>
+    
+  </channel>
+</rss>
