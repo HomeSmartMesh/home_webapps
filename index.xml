@@ -8,6 +8,15 @@
     <language>en-us</language><atom:link href="http://10.0.0.31/home/index.xml" rel="self" type="application/rss+xml" />
     <item>
       <title></title>
+      <link>http://10.0.0.31/home/docs/esp32/led_panel/</link>
+      <pubDate>Mon, 01 Jan 0001 00:00:00 +0000</pubDate>
+      
+      <guid>http://10.0.0.31/home/docs/esp32/led_panel/</guid>
+      <description>Led Panel#Full screenOpen in a new pagevar button = document.getElementById(&#34;btn-2748b1856bd246af&#34;);button.onclick = ()={var elem = document.getElementById(&#34;ifm-2748b1856bd246af&#34;);if (elem.requestFullscreen) {elem.requestFullscreen();} else if (elem.webkitRequestFullscreen) { elem.webkitRequestFullscreen();} else if (elem.msRequestFullscreen) { elem.msRequestFullscreen();}};</description>
+    </item>
+    
+    <item>
+      <title></title>
       <link>http://10.0.0.31/home/docs/shellies/sonos-front/</link>
       <pubDate>Mon, 01 Jan 0001 00:00:00 +0000</pubDate>
       
@@ -40,6 +49,15 @@
       
       <guid>http://10.0.0.31/home/docs/grafana/indoor/</guid>
       <description>Indoor Temperature and Humidity#Full screenOpen in a new pagevar button = document.getElementById(&#34;btn-88fb80d56ab7d3f0&#34;);button.onclick = ()={var elem = document.getElementById(&#34;ifm-88fb80d56ab7d3f0&#34;);if (elem.requestFullscreen) {elem.requestFullscreen();} else if (elem.webkitRequestFullscreen) { elem.webkitRequestFullscreen();} else if (elem.msRequestFullscreen) { elem.msRequestFullscreen();}};</description>
+    </item>
+    
+    <item>
+      <title></title>
+      <link>http://10.0.0.31/home/docs/esp32/led_bar/</link>
+      <pubDate>Mon, 01 Jan 0001 00:00:00 +0000</pubDate>
+      
+      <guid>http://10.0.0.31/home/docs/esp32/led_bar/</guid>
+      <description>Led Bar#Full screenOpen in a new pagevar button = document.getElementById(&#34;btn-4c8b27370df95f32&#34;);button.onclick = ()={var elem = document.getElementById(&#34;ifm-4c8b27370df95f32&#34;);if (elem.requestFullscreen) {elem.requestFullscreen();} else if (elem.webkitRequestFullscreen) { elem.webkitRequestFullscreen();} else if (elem.msRequestFullscreen) { elem.msRequestFullscreen();}};</description>
     </item>
     
     <item>

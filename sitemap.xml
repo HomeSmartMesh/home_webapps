@@ -3,6 +3,10 @@
   xmlns:xhtml="http://www.w3.org/1999/xhtml">
   
   <url>
+    <loc>http://10.0.0.31/home/docs/esp32/led_panel/</loc>
+  </url>
+  
+  <url>
     <loc>http://10.0.0.31/home/docs/shellies/sonos-front/</loc>
   </url>
   
@@ -16,6 +20,10 @@
   
   <url>
     <loc>http://10.0.0.31/home/docs/grafana/indoor/</loc>
+  </url>
+  
+  <url>
+    <loc>http://10.0.0.31/home/docs/esp32/led_bar/</loc>
   </url>
   
   <url>
@@ -76,6 +84,10 @@
   
   <url>
     <loc>http://10.0.0.31/home/docs/home3d/</loc>
+  </url>
+  
+  <url>
+    <loc>http://10.0.0.31/home/docs/esp32/</loc>
   </url>
   
   <url>
