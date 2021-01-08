@@ -51,6 +51,10 @@
   </url>
   
   <url>
+    <loc>http://10.0.0.31/home/docs/zigbee/rifo/</loc>
+  </url>
+  
+  <url>
     <loc>http://10.0.0.31/home/docs/grafana/energy/</loc>
   </url>
   
