@@ -15,11 +15,19 @@
   </url>
   
   <url>
-    <loc>http://10.0.0.31/home/docs/heating/</loc>
+    <loc>http://10.0.0.31/home/docs/</loc>
+  </url>
+  
+  <url>
+    <loc>http://10.0.0.31/home/</loc>
   </url>
   
   <url>
     <loc>http://10.0.0.31/home/docs/grafana/indoor/</loc>
+  </url>
+  
+  <url>
+    <loc>http://10.0.0.31/home/docs/shellies/</loc>
   </url>
   
   <url>
@@ -35,7 +43,7 @@
   </url>
   
   <url>
-    <loc>http://10.0.0.31/home/docs/homeassistant/</loc>
+    <loc>http://10.0.0.31/home/docs/grafana/</loc>
   </url>
   
   <url>
@@ -44,10 +52,6 @@
   
   <url>
     <loc>http://10.0.0.31/home/docs/shellies/tv/</loc>
-  </url>
-  
-  <url>
-    <loc>http://10.0.0.31/home/docs/zigbee/graph/</loc>
   </url>
   
   <url>
@@ -63,11 +67,19 @@
   </url>
   
   <url>
-    <loc>http://10.0.0.31/home/docs/openhab/</loc>
+    <loc>http://10.0.0.31/home/docs/zigbee/</loc>
   </url>
   
   <url>
     <loc>http://10.0.0.31/home/docs/shellies/pc/</loc>
+  </url>
+  
+  <url>
+    <loc>http://10.0.0.31/home/docs/zigbee/graph/</loc>
+  </url>
+  
+  <url>
+    <loc>http://10.0.0.31/home/docs/home3d/</loc>
   </url>
   
   <url>
@@ -79,23 +91,15 @@
   </url>
   
   <url>
-    <loc>http://10.0.0.31/home/docs/shellies/</loc>
-  </url>
-  
-  <url>
-    <loc>http://10.0.0.31/home/docs/grafana/</loc>
-  </url>
-  
-  <url>
-    <loc>http://10.0.0.31/home/docs/zigbee/</loc>
-  </url>
-  
-  <url>
-    <loc>http://10.0.0.31/home/docs/home3d/</loc>
-  </url>
-  
-  <url>
     <loc>http://10.0.0.31/home/docs/esp32/</loc>
+  </url>
+  
+  <url>
+    <loc>http://10.0.0.31/home/docs/homeassistant/</loc>
+  </url>
+  
+  <url>
+    <loc>http://10.0.0.31/home/docs/openhab/</loc>
   </url>
   
   <url>
@@ -103,15 +107,11 @@
   </url>
   
   <url>
+    <loc>http://10.0.0.31/home/docs/heating/</loc>
+  </url>
+  
+  <url>
     <loc>http://10.0.0.31/home/categories/</loc>
-  </url>
-  
-  <url>
-    <loc>http://10.0.0.31/home/docs/</loc>
-  </url>
-  
-  <url>
-    <loc>http://10.0.0.31/home/</loc>
   </url>
   
   <url>
